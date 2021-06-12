@@ -4,10 +4,10 @@ module.exports = ({ env }) => ({
     default: {
       connector: 'mongoose',
       settings: {
-        uri: env('DATABASE_URI','mongodb+srv://admin:deneme123@cluster0.6havq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'),
+        uri: env('DATABASE_URI'),
         srv: env.bool('DATABASE_SRV', true),
         port: env.int('DATABASE_PORT', 27017),
-        database: env('DATABASE_NAME','myFirstDatabase'),
+        database: env('DATABASE_NAME'),
       },
       options: {
         authenticationDatabase: env('AUTHENTICATION_DATABASE', null),
