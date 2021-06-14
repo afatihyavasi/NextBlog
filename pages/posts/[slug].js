@@ -39,7 +39,6 @@ export async function getStaticProps({ params }) {
       props: {
          data: data[0],
          content,
-         color,
       },
    };
 }
