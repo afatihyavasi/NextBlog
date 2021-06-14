@@ -7,7 +7,7 @@ const Header = ({ title, color }) => {
             <title>{title}</title>
          </Head>
          <h1
-            className={`text-3xl font-thin bg-${color}-50 text-${color}-600 px-3 py-2 rounded-md border border-${color}-600`}
+            className={`text-3xl font-thin bg-purple-50 text-purple-600 px-3 py-2 rounded-md border border-${color}-600`}
          >
             {title}
          </h1>
