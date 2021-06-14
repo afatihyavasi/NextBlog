@@ -1,6 +1,7 @@
 
 ![Browser=Simple, Theme=Dark](https://user-images.githubusercontent.com/22716658/121963223-7baf8b80-cd72-11eb-9be4-8725f3259502.png)
-![Frame 1](https://user-images.githubusercontent.com/22716658/121963826-52432f80-cd73-11eb-9603-e661c813843d.png)
+![Frame 1](https://user-images.githubusercontent.com/22716658/121964004-8d456300-cd73-11eb-8458-f6626cae1668.jpeg)
+
 ![Apple iPhone XS Max Silver](https://user-images.githubusercontent.com/22716658/121963852-566f4d00-cd73-11eb-8ab1-320750dbe533.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
