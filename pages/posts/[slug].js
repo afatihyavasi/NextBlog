@@ -2,13 +2,14 @@ import Header from '../../components/Header';
 import Layout from '../../components/Layout';
 import { MDXRemote } from 'next-mdx-remote';
 import { serialize } from 'next-mdx-remote/serialize';
-import pickRandomColor from '../../helpers/randomColor';
 
-const Post = ({ data, content, color }) => {
+const Post = ({ data, content }) => {
    return (
       <Layout>
-         <Header title={data.title} color={color} />
-         <article className={`prose prose-sm prose-${color} sm:prose-lg mx-auto my-10`}>
+         <Header title={data.title} />
+         <article
+            className={`prose prose-sm prose-purple sm:prose-lg mx-auto my-10`}
+         >
             <MDXRemote {...content} />
          </article>
       </Layout>
@@ -29,7 +30,6 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-   const color = pickRandomColor();
    const response = await fetch(
       `https://nextjs-blog-afatihyavasi.herokuapp.com/posts?slug=${params.slug}`
    );

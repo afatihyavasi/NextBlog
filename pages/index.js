@@ -5,7 +5,7 @@ import SinglePost from '../components/SinglePost';
 export default function Home({ data }) {
    return (
       <Layout>
-         <Header title={'NextJS Sample Blog'} color={'purple'} />
+         <Header title={'NextJS Sample Blog'} />
          <div className={'my-20'}>
             {data.map((post) => (
                <SinglePost post={post} key={post.id} />
