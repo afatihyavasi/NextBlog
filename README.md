@@ -7,9 +7,9 @@ Simple JAMstack blog developed throughout the Medium article series. To examine 
 
 ## Articles
 
- - **[TR]** - [Strapi ve NextJS Kullanarak JAMstack Blog Yapalım — MongoDB, Strapi kurulumu ve Heroku Deploy](https://afatihyavasi.medium.com/strapi-ve-nextjs-kullanarak-jamstack-blog-yapal%C4%B1m-mongodb-strapi-kurulumu-ve-heroku-deploy-341a2e92eea0)
+ - **[TR]** - [Strapi ve Next.js Kullanarak JAMstack Blog Yapalım — MongoDB, Strapi kurulumu ve Heroku Deploy](https://afatihyavasi.medium.com/strapi-ve-nextjs-kullanarak-jamstack-blog-yapal%C4%B1m-mongodb-strapi-kurulumu-ve-heroku-deploy-341a2e92eea0)
 
- - **[TR]** - [Strapi ve NextJS Kullanarak JAMstack Blog Yapalım — next-mdx-remote paketi, TailwindCSS Typography Plugini ve Vercel Deploy](https://afatihyavasi.medium.com/strapi-ve-nextjs-kullanarak-jamstack-blog-yapal%C4%B1m-next-mdx-remote-paketi-tailwindcss-typography-714418ef1369)
+ - **[TR]** - [Strapi ve Next.js Kullanarak JAMstack Blog Yapalım — next-mdx-remote paketi, TailwindCSS Typography Plugini ve Vercel Deploy](https://afatihyavasi.medium.com/strapi-ve-nextjs-kullanarak-jamstack-blog-yapal%C4%B1m-next-mdx-remote-paketi-tailwindcss-typography-714418ef1369)
 
 
 ## Built With
