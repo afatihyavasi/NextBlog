@@ -12,7 +12,7 @@ Simple JAMstack blog developed throughout the Medium article series. To examine 
  - **[TR]** - [Strapi ve NextJS Kullanarak JAMstack Blog Yapalım — next-mdx-remote paketi, TailwindCSS Typography Plugini ve Vercel Deploy](https://afatihyavasi.medium.com/strapi-ve-nextjs-kullanarak-jamstack-blog-yapal%C4%B1m-next-mdx-remote-paketi-tailwindcss-typography-714418ef1369)
 
 
-## Builts With
+## Built With
 
  - [Next.js](https://nextjs.org/)
  - [Tailwind CSS](https://tailwindcss.com/)
